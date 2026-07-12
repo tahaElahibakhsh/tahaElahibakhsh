@@ -71,6 +71,3 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"></a>
   <a href="https://streak-stats.demolab.com/?user=tahaelahibakhsh&theme=react&hide_border=true"></a>
 </p>
-
-<!-- Activity graph (full-width) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tahaelahibakhsh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
