@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  AI Developer • AI Researcher • Agentic Systems
+  Machine Learning • Deep Learning • AI Security
 </h3>
 
 <p align="center">
